@@ -8,7 +8,7 @@ With 12+ years of experience, I build scalable, secure, and high-performance app
 
 - **Azure Cloud:** App Services, Functions, Logic Apps, Data Factory, Databricks, Synapse, Cosmos DB, Key Vault
 - **.NET:** .NET Framework/Core 9, ASP.NET MVC, Web API, WCF, Entity Framework
-- **Languages:** C#, VB.NET, Java, C++, JavaScript, TypeScript, Go
+- **Languages:** C#, VB.NET, Java, Python, C++, JavaScript, TypeScript
 - **Front-End:** React 18, Angular 16-20, Node.js, Bootstrap, HTML5, CSS3, jQuery
 - **Back-End & Microservices:** Web API, WCF, Node.js, Kafka, RabbitMQ, API Gateway
 - **Databases:** MS SQL Server, Oracle, MongoDB, PostgreSQL, MySQL
